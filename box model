@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  background-color: rgb(41, 134, 196);
+  width: 400px;
+  border: 10px solid rgb(15, 0, 128);
+  padding: 60px;
+  margin: 25px;
+}
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid rgb(15, 29, 121);
+  margin: 0;
+}
+</style>
+</head>
+<body>
+
+<h1>sliver oak university the Box Model</h1>
+
+<p>The CSS box model is essentially a box that wraps around every HTML element. It consists of: borders, padding, margins, and the actual content.</p>
+
+<div>This text is the content of the box.
+   We have added a 60px padding, 25px margin and a 10px green borber.this box inform the university of sliver oak.which are course in the university.exc.. information are there.</div>
+   <h2>Calculate the total width:</h2>
+
+<img src="C:\Users\DELL\Downloads" width="350" height="40" alt="SOU">
+<div>The picture above is 350px wide. The total width of this element is also 350px.</div>
+
+
+</body>
+</html>
