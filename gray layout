@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 1;
+}
+.sou {
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+  
+}
+body {
+  margin: 1;
+}
+.welcome {
+  background-color: rgb(165, 165, 165);
+  padding: 20px;
+  text-align:left;
+  
+}
+.media {
+  background-color: rgb(193, 192, 192);
+  padding: 50px;
+  text-align:right;
+}
+
+</style>
+</head>
+<body>
+
+<div class="sou">
+  <h1>SOU</h1>
+</div>
+<div class="welcome">
+  <h1>welcome</h1>
+</div>
+<div class="media">
+  <h1>media</h1>
+</div>
+
+</body>
+</html>
