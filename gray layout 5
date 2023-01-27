@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gray layout4</title>
+    <style type="text/css">
+        *{font-size:22px;font-weight:bold;}
+    #R1{background-color:gray;height:40px;padding-top:20px;width:95%;padding-left:5%;margin-bottom:10px;} 
+    #R2{background-color:gray;height:60px;padding-top:40px;width:95%;padding-left:5%;text-align:center;margin-bottom:10px;} 
+    #R3{background-color:gray;height:50px;padding-top:30px;width:95%;padding-left:5%;text-align: center;margin-bottom:10px;} 
+    #R4{height:600px;width:100%;margin-bottom:10px;}
+    #R4C1{width:32%;margin-right:1%;}
+    #R4C2{width:32%;margin-right:1%;margin-left:1%}
+    #R4C3{width:32%;margin-left:1%}
+    #R4 div{float:left;height:320px;padding-top:280px;text-align:center;background-color:gray;}
+    #R5{background-color:gray;height:20px;padding-top:10px;width:95%;padding-left:5%;margin-bottom:10px;text-align: center;} 
+
+       
+       
+       </style>
+       </head>
+       <body>
+        <div id="R1">
+            Logo
+        </div>
+        <div id="R2">
+            Header/Banner
+        </div>
+        <div id="R3">
+            Intro text area
+        </div>
+        <div id="R4">
+            <div id="R4C1">
+                Box 1
+            </div>
+            <div id="R4C2">
+                Box 2
+            </div>
+            <div id="R4C3">
+                Box3
+            </div>
+        </div>
+        <div id="R5">
+             footer
+        </div>
+
+       </body>
+       </html>
